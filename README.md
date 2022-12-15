@@ -26,5 +26,4 @@ The part (called turntable) which connects to the final 100 tooth gear to rotate
 
     
      
-        
-hjg        
+### Extrusion mount & Linear actuator
