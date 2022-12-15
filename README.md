@@ -22,5 +22,5 @@ This is done using a NEMA 17 stepper motor (motor specs here) that drives a comp
 The part (called turntable) which connects to the final 100 tooth gear to rotates at an angle determined by the two limit switches placed on the top of the base. These switches control the functional angle of the extrusion mount and stop the turntable from spinning continuously which would be very bad for the robot and things around 😅
 
 ![base top](https://user-images.githubusercontent.com/78376139/207982161-b029e927-a005-4076-8e5a-98888a343626.png)
-
+![gears](https://user-images.githubusercontent.com/78376139/207982723-a7b1eacc-2b4a-42ea-b8cc-d08c1529a0be.png)
 
