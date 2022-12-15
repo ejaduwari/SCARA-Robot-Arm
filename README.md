@@ -24,5 +24,7 @@ The part (called turntable) which connects to the final 100 tooth gear to rotate
 ![base top](https://user-images.githubusercontent.com/78376139/207982161-b029e927-a005-4076-8e5a-98888a343626.png)
 ![gears](https://user-images.githubusercontent.com/78376139/207982723-a7b1eacc-2b4a-42ea-b8cc-d08c1529a0be.png)
 
-# 
-xfvdv
+    
+     
+        
+hjg        
