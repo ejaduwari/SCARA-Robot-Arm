@@ -11,4 +11,4 @@ Upon further consideration, the potential applications of use cases of this robo
 This project pushes me to learn new concepts and develop my skills in 3D CAD, Electronic circuit (PCB) design and Embedded software development.
 I say this because every aspect of this project involves utilizing or developing skills in the areas listed above. 
 
-![This is an image](https://www.dropbox.com/s/wconckr4r2az775/base%20top.png?dl=0)
+![This is an image](https://previews.dropbox.com/p/thumb/ABwdSgf5ftnoRY7LdJvD_Nh67lGRNEQRenRpoJ3Msem6SgGpXHHgGVJpUzrhY999RhXDZuiZxyyBdwHrpZ2NrTt9_pS1AlZYQHPf1ikj5GPV18x2VMGh4g81SNMGqAXK6TsP1AC3y3t5ecgBF9rAsTpdZe2OiYxiy-Rzkp8upJ86TlcCjWTinoNFPAezCNA4PkjB0RIsurU9NZouM0cyderiYW3caHv3aBtU7j0UCYLW7NozNPxrs4PE-yx6QS7RLqCLtZGI1eSEe0Ay6l8tihj9ejTrkaziRs1BKXgnRiSoXTBUPA13vrN7K2C20dSs-8EySfOTuEocmabTAzXEfgF1SPoIw4zUPEJfunrY0m2YgROh7U1DDwfcuhGT8Sz9V_0/p.png)
