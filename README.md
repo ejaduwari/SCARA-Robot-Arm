@@ -29,9 +29,8 @@ The part (called turntable) which connects to the final 100 tooth gear to rotate
 ### Extrusion mount & Linear actuator
 The second degree of freedom offers a linear movement.
 The arm is mounted to a part that moves along the z-axis. Initially I went for a gantry design but decided to go with a stepper controlled linear rod instead. 
-I felt the gantry was too finicky and would require more power to move because of its own weight. The linear rod offers a simpler design, without the need of adding a timing belt like we would with the gantry.
+I felt the gantry was too finicky and would require more power to move because of its own weight. The linear rod offers a simpler design, without the need of adding a timing belt like we would with the gantry. The photo below shows the intial design for the vertical axis linear actuator which has now been scrapped.
 
-Initial design:
 ![gantry](https://user-images.githubusercontent.com/78376139/207983213-87784e79-82ee-4f0c-b5af-4b3ef91dc8db.png)
 
 More information on the linear rod and the rest of the project will be released shortly! :)
